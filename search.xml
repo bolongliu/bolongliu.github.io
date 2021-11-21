@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>test</title>
+      <title>Template</title>
       <link href="/2021/11/21/test-1/"/>
       <url>/2021/11/21/test-1/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><h1 id="一：简介"><a href="#一：简介" class="headerlink" title="一：简介"></a>一：简介</h1><h1 id="二-实现原理"><a href="#二-实现原理" class="headerlink" title="二: 实现原理"></a>二: 实现原理</h1><h1 id="三：实现步骤"><a href="#三：实现步骤" class="headerlink" title="三：实现步骤"></a>三：实现步骤</h1>]]></content>
       
       
       <categories>
