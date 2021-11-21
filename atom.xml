@@ -6,7 +6,7 @@
   <link href="https://bolongliu.github.io/atom.xml" rel="self"/>
   
   <link href="https://bolongliu.github.io/"/>
-  <updated>2021-11-21T13:37:26.763Z</updated>
+  <updated>2021-11-21T13:28:40.769Z</updated>
   <id>https://bolongliu.github.io/</id>
   
   <author>
@@ -15,33 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Template</title>
-    <link href="https://bolongliu.github.io/2021/11/21/test-1/"/>
-    <id>https://bolongliu.github.io/2021/11/21/test-1/</id>
-    <published>2021-11-21T13:30:41.000Z</published>
-    <updated>2021-11-21T13:37:26.763Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;pre class=&quot;line-numbers language-bash&quot; data-language=&quot;bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;$ hexo new &lt;span class=&quot;token string&quot;&gt;&quot;My New</summary>
-        
-      
-    
-    
-    
-    <category term="Markdown" scheme="https://bolongliu.github.io/categories/Markdown/"/>
-    
-    
-    <category term="Typora" scheme="https://bolongliu.github.io/tags/Typora/"/>
-    
-    <category term="Markdown" scheme="https://bolongliu.github.io/tags/Markdown/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
