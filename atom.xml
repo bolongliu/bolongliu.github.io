@@ -6,7 +6,7 @@
   <link href="https://bolongliu.github.io/atom.xml" rel="self"/>
   
   <link href="https://bolongliu.github.io/"/>
-  <updated>2021-11-21T13:28:40.769Z</updated>
+  <updated>2021-11-21T13:42:40.585Z</updated>
   <id>https://bolongliu.github.io/</id>
   
   <author>
@@ -17,23 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://bolongliu.github.io/2021/11/21/test/"/>
-    <id>https://bolongliu.github.io/2021/11/21/test/</id>
-    <published>2021-11-21T13:28:40.769Z</published>
-    <updated>2021-11-21T13:28:40.769Z</updated>
+    <title>Template</title>
+    <link href="https://bolongliu.github.io/2021/11/21/template/"/>
+    <id>https://bolongliu.github.io/2021/11/21/template/</id>
+    <published>2021-11-21T13:30:41.000Z</published>
+    <updated>2021-11-21T13:42:40.585Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;一：简介&quot;&gt;&lt;a href=&quot;#一：简介&quot; class=&quot;headerlink&quot; title=&quot;一：简介&quot;&gt;&lt;/a&gt;一：简介&lt;/h1&gt;&lt;p&gt; 这是我的博客文档写作模板 &lt;/p&gt;
+&lt;h1 id=&quot;二-实现原理&quot;&gt;&lt;a href=&quot;#二-实现原理&quot;</summary>
         
       
     
     
     
+    <category term="Markdown" scheme="https://bolongliu.github.io/categories/Markdown/"/>
+    
+    
+    <category term="Typora" scheme="https://bolongliu.github.io/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="https://bolongliu.github.io/tags/Markdown/"/>
+    
+    <category term="hexo" scheme="https://bolongliu.github.io/tags/hexo/"/>
     
   </entry>
   
